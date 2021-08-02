@@ -1,4 +1,4 @@
-lass RoomsController < ApplicationController
+class RoomsController < ApplicationController
 
   def index
 
